@@ -1,0 +1,32 @@
+CV computer vision
+image processing
+image classification
+object detection (yolo?)
+segmentation
+pose estimation, ocr optical character reading?, tracking
+
+google teachable machine
+
+NLP Natural Language Processing
+(we can text summerize, question answer wrt given para)
+tokenization
+stemming
+lemmatization
+
+chatbots (google dialogflow)
+google ai studio (obvi gemini api)
+google collab
+ai web apps (gradio, streamlit)
+telegram bots - its the interface b/w us and code
+huggingFace - lots of model, dataset, can run there too
+
+roboflow
+vibecoding - antigravity (create ai websites)
+
+custom LargeLangModels
+fine tuning, RAG, RAFT, reprompting
+
+generative ai
+
+ai workflow automation
+ai agents
