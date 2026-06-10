@@ -2,7 +2,9 @@ notebook is a combination of codes
 script is just one code file
 
 .venv folder for virtual environment
-pip install <library name> is for python
 
 pip is not recognised !??
 dont freak out --> .venv\scripts\activate
+
+pip install <library name> is for python
+
